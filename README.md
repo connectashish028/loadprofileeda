@@ -64,12 +64,6 @@ Install dependencies with:
 pip install pandas numpy matplotlib seaborn
 ```
 
-## License
-
-MIT License
-
----
-
 ### Summary of Findings
 
 - The load profile exhibits strong daily, weekly, and seasonal cycles, with clear peaks during winter and summer.
